@@ -9,8 +9,7 @@ export default function PoweredBy(props) {
     <div
       className={`gap-x-1 flex flex-wrap text-sm font-serif ${props.className || ''}`}>
       <span>Powered by</span>
-      <a
-        className='underline justify-start'>
+      <a>
         Toddler {siteConfig('VERSION')}
       </a>
       .
