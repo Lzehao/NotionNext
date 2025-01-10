@@ -11,7 +11,7 @@ export default function PoweredBy(props) {
       <span>Powered by</span>
       <a
 风起时
-      a>
+      </a>
       .
     </div>
   )
